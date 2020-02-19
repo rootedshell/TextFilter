@@ -1,0 +1,3 @@
+word1: Line Filter
+word2: Sucessfully filtered lines from the text.
+dwordn: Run "delete_words.py" to delete the word1, word2 & dwordn.
